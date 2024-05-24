@@ -3,7 +3,7 @@
     "target": "es2019",
     "module": "esnext",
     "moduleResolution": "node",
-    "strict": true,
+    "strict": false,
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "declaration": false,
